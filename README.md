@@ -7,10 +7,9 @@ The summary tutorial is covered [in these slides](topic-modelling-with-scikitlea
 
 1. [Text Preprocessing](1%20-%20Text%20Preprocessing.ipynb): Provides a basic introduction to preprocessing documents with *scitkit-learn*.
 2. [NMF Topic Models](2%20-%20NMF%20Topic%20Models.ipynb): Covers the application and interpretation of topic models via the NMF implementation provided by *scitkit-learn*.
-3. [Model Selection for NMF](3%20-%20Model%20Selection%20for%20NMF.ipynb): More advanced material on selecting the number of topics for NMF, using topic coherence.
+3. [Parameter Selection for NMF](3%20-%20Parameter%20Selection%20for%20NMF.ipynb): More advanced material on selecting the number of topics for NMF, using topic coherence.
 
-To demonstrate the topic modelling techniques, a sample dataset [is provided here](data/articles.txt). This consists of 4,551 news articles from 2016, stored in a single text file, one article per line.
-
+To demonstrate the topic modelling techniques, a sample dataset [is provided here](data/articles.txt). This consists of 4,551 news articles from 2016, stored in a single text file (25MB), one article per line.
 
 ### Dependencies
 
@@ -20,7 +19,7 @@ This code has been tested with Python 3.6. The core package requirements are:
 - *numpy*
 - *matplotlib*
 
-The model selection code also relies on the *gensim* package to build a Word2Vec model. A pre-built Word2Vec model for the sample dataset [is also provided here](data/w2v-model.bin).
+The model selection code also relies on the *gensim* package to build a Word2Vec model. A pre-built Word2Vec model for the sample dataset [is also provided here](data/w2v-model.bin) (71MB).
 
 ### Links and References
 
