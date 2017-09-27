@@ -5,9 +5,9 @@ This repository contains notebooks, slides, and data for the short tutorial *"To
 
 The summary tutorial is covered [in these slides](topic-modelling-with-scikitlearn.pdf). There are three associated IPython notebooks:
 
-1. [Text Preprocessing](1 - Text Preprocessing.ipynb): Provides a basic introduction to preprocessing documents with *scitkit-learn*.
-2. [NMF Topic Models](2 - NMF Topic Models.ipynb): Covers the application and interpretation of topic models via the NMF implementation provided by *scitkit-learn*.
-3. [Model Selection for NMF](3 - Model Selection for NMF.ipynb): More advanced material on selecting the number of topics for NMF, using topic coherence.
+1. [Text Preprocessing](1%20-%20Text%20Preprocessing.ipynb): Provides a basic introduction to preprocessing documents with *scitkit-learn*.
+2. [NMF Topic Models](2%20-%20NMF%20Topic%20Models.ipynb): Covers the application and interpretation of topic models via the NMF implementation provided by *scitkit-learn*.
+3. [Model Selection for NMF](3%20-%20Model%20Selection%20for%20NMF.ipynb): More advanced material on selecting the number of topics for NMF, using topic coherence.
 
 To demonstrate the topic modelling techniques, a sample dataset [is provided here](data/articles.txt). This consists of 4,551 news articles from 2016, stored in a single text file, one article per line.
 
