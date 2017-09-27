@@ -23,7 +23,7 @@ The model selection code also relies on the *gensim* package to build a Word2Vec
 
 ### Links and References
 
-- [*Scikit-learn* Home](http://scikit-learn.org/stable/)
+- [*Scikit-learn* home](http://scikit-learn.org/stable/)
 - [NMF documentation for *scikit-learn*](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html)
 - Lee, D. D., & Seung, H. S. (1999). Learning the parts of objects by non-negative matrix factorization. Nature. [[PDF]](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/nmf_nature.pdf)
 - Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4). [[Link]](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext)
