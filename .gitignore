@@ -102,3 +102,6 @@ ENV/
 
 # topic model files
 *.pkl
+
+# keynote files
+.key
