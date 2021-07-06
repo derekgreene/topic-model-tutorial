@@ -15,11 +15,12 @@ To demonstrate the topic modelling techniques, a sample dataset [is provided her
 
 This code has been tested with Python 3.6. The core package requirements are:
 
-- *scikit-learn* (tested with v0.19.0)
+- *scikit-learn* (tested with v0.23)
 - *numpy*
 - *matplotlib*
 
-The model selection code also relies on the *gensim* package to build a Word2Vec model. A pre-built Word2Vec model for the sample dataset [is also provided here for download](http://erdos.ucd.ie/files/pydata/w2v-model.bin) (71MB).
+
+The model selection code also relies on the *gensim* package to build a Word2Vec model (tested with v4.0.1). A pre-built Word2Vec model for the sample dataset [is also provided here for download](http://erdos.ucd.ie/files/pydata/w2v-model.bin) (71MB).
 
 ### Links and References
 
