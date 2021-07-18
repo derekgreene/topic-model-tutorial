@@ -9,7 +9,7 @@ The summary tutorial is covered [in these slides](topic-modelling-with-scikitlea
 2. [NMF Topic Models](2%20-%20NMF%20Topic%20Models.ipynb): Covers the application and interpretation of topic models via the NMF implementation provided by *scitkit-learn*.
 3. [Parameter Selection for NMF](3%20-%20Parameter%20Selection%20for%20NMF.ipynb): More advanced material on selecting the number of topics for NMF, using topic coherence.
 
-To demonstrate the topic modelling techniques, a sample dataset [is provided here](data/articles.txt). This consists of 4,551 news articles collected from the (Guardian News API)[https://open-platform.theguardian.com/] in 2016, stored in a single text file (25MB), with one article per line.
+To demonstrate the topic modelling techniques, a sample dataset [is provided here](data/articles.txt). This consists of 4,551 news articles collected from the [Guardian News API](https://open-platform.theguardian.com) in 2016, stored in a single text file (25MB), with one article per line.
 
 ### Dependencies
 
